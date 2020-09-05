@@ -1,0 +1,13 @@
+1.data :Lending Club 2016年Q3数据
+2.Keep what we need  : 
+    Loan Amount Requested Verus the Funded Amount
+    emp_title: employment title
+    emp_length: employment length
+    verification status:"Indicates if income was verified by LC, not verified, or if the income source was verified"
+    Target: Loan Statuses
+    Target: Loan Statuses
+    Highly Correlated Data
+3.Our Model
+  Train Data & Test Data
+  Gradient Boosting Regression Tree
+  Other Model
